@@ -23,4 +23,4 @@ hotfix/error-documentacion: Ramas para correcciones urgentes en producción.
 
 Estructura del Proyecto:
 src: Contiene la lógica y código fuente del microservicio.
-github/workflows: Contiene los archivos de automatización
+github/workflows: Contiene los archivos de automatización.
