@@ -11,4 +11,4 @@ revisión. (IE5)
 
 
 Primer cambio del readme.md por Jean portiño
-1. justificacion del uso de gitflow porque organiza el trabajo mediante distintas ramas siendo estas (main, develop, feature, release, hotfix), que nos permite desarrollar nuevas funciones facilitando las correcciones.
+2. justificacion del uso de gitflow porque organiza el trabajo mediante distintas ramas siendo estas (main, develop, feature, release, hotfix), que nos permite desarrollar nuevas funciones facilitando las correcciones.
