@@ -1,5 +1,4 @@
 name: Pipeline DevOps EP1
-# Configuración de disparadores (Triggers) según requerimiento [cite: 29]
 on:
   push:
     branches: [ develop ]
