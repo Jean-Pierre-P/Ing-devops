@@ -12,3 +12,15 @@ revisión. (IE5)
 
 Primer cambio del readme.md por Jean portiño
 2. justificacion del uso de gitflow porque organiza el trabajo mediante distintas ramas siendo estas (main, develop, feature, release, hotfix), que nos permite desarrollar nuevas funciones facilitando las correcciones.
+
+4. segundo cambio del readme.md por jean portiño
+Naming de Ramas:
+main: Rama de producción estable.
+develop: Rama base para integración de desarrollo.
+feature/ev-1: Ramas para nuevas funcionalidades.
+hotfix/error-documentacion: Ramas para correcciones urgentes en producción.
+
+
+Estructura del Proyecto:
+src: Contiene la lógica y código fuente del microservicio.
+github/workflows: Contiene los archivos de automatización
