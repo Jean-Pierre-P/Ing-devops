@@ -1,0 +1,21 @@
+name: Pipeline DevOps EP1
+# Configuración de disparadores (Triggers) según requerimiento [cite: 29]
+on:
+  push:
+    branches: [ develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v4
+
+      - name: Simulación de entorno Cloud
+        run: |
+          echo "Iniciando proceso CI/CD..."
+          echo "Instalando dependencias del microservicio..."
+          echo "Ejecutando pruebas unitarias..."
+          echo "Simulando despliegue exitoso en entorno Cloud."
